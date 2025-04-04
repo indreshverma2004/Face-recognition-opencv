@@ -2,7 +2,7 @@ import os
 import cv2 as cv
 import numpy as np
 
-people=['Narendra_Modi','Barack_Obama','Swami_Vivekananda','Bill_Gates','Elon_Musk']
+people=['Narendra_Modi','Barack_Obama','Swami_Vivekananda','Bill_Gates','Elon_Musk',"testuser1"]
 
 # p=[]
 # for i in os.listdir(r'C:\Users\indre\Desktop\Books\coding\OpenCV\opencvlecture\Faces'):
