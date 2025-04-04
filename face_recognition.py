@@ -10,7 +10,7 @@ people=['Narendra_Modi','Barack_Obama','Swami_Vivekananda','Bill_Gates','Elon_Mu
 face_recognizer=cv.face.LBPHFaceRecognizer_create()
 face_recognizer.read('face_trained.yml')
 
-img=cv.imread(r'C:\Users\indre\Desktop\Books\coding\OpenCV\opencvlecture\Faces\Swami_Vivekananda\5.jpeg')
+img=cv.imread(r'C:\Users\indre\Desktop\Books\coding\OpenCV\opencvlecture\Faces\Elon_Musk\4.jpeg')
 
 gray=cv.cvtColor(img,cv.COLOR_BGR2GRAY)
 # cv.imshow('Person',gray)
